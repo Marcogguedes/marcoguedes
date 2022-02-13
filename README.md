@@ -1,1 +1,5 @@
-# marcoguedes
+- 🖐 Oi, eu sou Marco Guedes.
+- 👀 Tenho buscado desenvolvimento nas áreas de análise de dados e ciência de dados e desenvolvimento full stack.
+- 📙 Atualmente estou aprendo as linguagens de programação python e R, assim como os algoritmos para aplicação de Machine Learning.
+- 💻 Em busca da primeira oportunidade para desenvolver e aplicar os conhecimentos que venho adquirindo.
+- 📭 Como me encontrar: mgaureliodata@gmail.com ou Linkedin www.linkedin.com/in/marco-guedes-maguedes
